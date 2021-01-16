@@ -33,7 +33,7 @@ class Solution(object):
 
 ```
 
-##s2: 
+## s2: 
 adding an `if` statement adding runtime
 ```python
 class Solution(object):
