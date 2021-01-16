@@ -8,7 +8,7 @@
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Python](solutions/easy_roman_to_integer.py) | easy |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python](solutions/easy_longest_common_prefix.py) | easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Python](solutions/easy_valid_parentheses.py) | easy |
-| 21 | [Merge Two Sorted Lists](Merge Two Sorted Lists) | [Python](solutions/easy_merge_two_sorted_list.py) | easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](solutions/easy_merge_two_sorted_list.py) | easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python](solutions/) | easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python](solutions/easy_strstr.py) | easy |
 | 20 | [count and say](https://leetcode.com/problems/count-and-say/submissions/) | [Python](solutions/e_count_and_say.md) | easy |
