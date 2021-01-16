@@ -39,9 +39,8 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        half_len=len(height)//2+1 #stop when l or r reach to half
         result,l,r=0,0, len(height)-1
-        while (r>l):
+        while (r>l):#stop when right is more than left
             contain=(r-l)*min(height[l],height[r])
             result=contain if contain>result else result
             if height[l]>height[r]:

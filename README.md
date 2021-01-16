@@ -11,6 +11,7 @@
 | 21 | [Merge Two Sorted Lists](Merge Two Sorted Lists) | [Python](solutions/easy_merge_two_sorted_list.py) | easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python](solutions/) | easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python](solutions/easy_strstr.py) | easy |
+| 20 | [count and say](https://leetcode.com/problems/count-and-say/submissions/) | [Python](solutions/e_count_and_say.md) | easy |
 | 283 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes) | [Python](solutions/easy_move_zeros.md) | easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/easy_two_sum.py) | medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](solutions/median_longest_substring.py) | medium |
@@ -21,5 +22,4 @@
 temp
 |  | [TwoSum]() | [Python](solutions/) | medium |
 |  | [TwoSum]() | [Python](solutions/) | easy |
-
 
