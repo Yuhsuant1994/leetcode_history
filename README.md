@@ -18,8 +18,11 @@
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](solutions/median_Longest_Palindromic_Substring.py) | medium |
 | 8 | [String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/median_string_toint.py) | medium |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](solutions/m_container_with_most_water.md) | medium |
+|  | []() | [Python](solutions/) | hard |
 
 temp
-|  | [TwoSum]() | [Python](solutions/) | medium |
-|  | [TwoSum]() | [Python](solutions/) | easy |
+|  | []() | [Python](solutions/) | medium |
+|  | []() | [Python](solutions/) | easy |
+|  | []() | [Python](solutions/) | hard |
+
 
