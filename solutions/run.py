@@ -1,21 +1,19 @@
-x=2
-n=-2
-c=1
-val=x
-if n < 0:
-    x = 1/x
-    n = abs(n)
-while n>2:  
-    if n%2!=0:
-        c=c*val
-    val=val*val
-    n=n//2
-    print(f'{c}*{val}^{n}')
-    
-                
-if n == 0:
-    print( 1)
-elif n==1:
-    print( c*val)
-else: #n==2:
-    print( c*val*val)
+def plusOne(digits):  # O(n) both
+    i,carry=1,1
+    while (carry==1) & (i<=len(digits)):
+        print(digits[-i]+carry)
+        if digits[-i]+carry == 10:
+            digits[-i]=0
+            i+=1
+        else:
+            digits[-i]+=1
+            carry=0
+            
+        if (carry==1) &(i==len(digits)+1):
+            digits=[1]+digits
+            i+=1
+    return digits
+
+plusOne([9])
+print(1)
+print('i')

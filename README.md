@@ -12,6 +12,9 @@
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Python](solutions/) | easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Python](solutions/easy_strstr.py) | easy |
 | 20 | [count and say](https://leetcode.com/problems/count-and-say/submissions/) | [Python](solutions/e_count_and_say.md) | easy |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](solutions/e_powx.md) | easy |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](solutions/e_maximum_subarray.md) | easy |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Python](solutions/e_plus_one.md) | easy |
 | 283 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes) | [Python](solutions/easy_move_zeros.md) | easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/easy_two_sum.py) | medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](solutions/median_longest_substring.py) | medium |
