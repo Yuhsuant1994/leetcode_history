@@ -15,12 +15,14 @@
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](solutions/e_powx.md) | easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Python](solutions/e_maximum_subarray.md) | easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Python](solutions/e_plus_one.md) | easy |
+| 69 | [sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](solutions/e_squrtx.md) | easy |
 | 283 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes) | [Python](solutions/easy_move_zeros.md) | easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/easy_two_sum.py) | medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](solutions/median_longest_substring.py) | medium |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](solutions/median_Longest_Palindromic_Substring.py) | medium |
 | 8 | [String to Integer (atoi) ](https://leetcode.com/problems/string-to-integer-atoi) | [Python](solutions/median_string_toint.py) | medium |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Python](solutions/m_container_with_most_water.md) | medium |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Python](solutions/m_3sum.md) | medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](solutions/h_median-of-two-sorted-arrays.md) | hard |
 
 temp
