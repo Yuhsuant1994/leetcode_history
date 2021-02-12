@@ -20,8 +20,12 @@
 | 69 | [sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](solutions/e_squrtx.md) |
 | 70 | [climbing stairs](https://leetcode.com/problems/climbing-stairs) | [Python](solutions/e_climbstair.md) |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [Python](solutions/e_maximum-depth-of-binary-tree.md) |
+| 136 | [Single number](https://leetcode.com/problems/single-number/) | [Python](solutions/e_single_number.md) |
+| 237 | [Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](solutions/e_delete-node-in-a-linked-list.md) |
 | 283 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes) | [Python](solutions/easy_move_zeros.md) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](solutions/e_reverse_string.md) |
+
+
 
 ## medium
 
