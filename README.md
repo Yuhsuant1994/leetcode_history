@@ -21,7 +21,8 @@
 | 70 | [climbing stairs](https://leetcode.com/problems/climbing-stairs) | [Python](solutions/e_climbstair.md) |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [Python](solutions/e_maximum-depth-of-binary-tree.md) |
 | 136 | [Single number](https://leetcode.com/problems/single-number/) | [Python](solutions/e_single_number.md) |
-| 237 | [Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](solutions/e_delete-node-in-a-linked-list.md) |
+| 206 | [reverse linked list](https://leetcode.com/problems/reverse-linked-list) | [Python](solutions/easy_move_zeros.md) |
+| 237 | [Delete Node in a Linked List ](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Python](solutions/e_reverse-linked-list.md) |
 | 283 | [Move Zeroes ](https://leetcode.com/problems/move-zeroes) | [Python](solutions/easy_move_zeros.md) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Python](solutions/e_reverse_string.md) |
 
@@ -30,7 +31,7 @@
 ## medium
 
 | # | title | solutions |
-|---|---|---|---|
+|---|---|---|
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Python](solutions/easy_two_sum.py) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Python](solutions/median_longest_substring.py) |
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](solutions/median_Longest_Palindromic_Substring.py) |
