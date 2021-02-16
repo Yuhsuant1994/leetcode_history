@@ -3,7 +3,7 @@
 ## easy
 
 | # | title | solutions |
-|---|---|---|---|
+|---|---|---|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](solutions/easy_two_sum.py) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Python](solutions/easy_reverse_integer.py) |
 | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Python](solutions/easy_palindrome_number.py) |
@@ -45,13 +45,13 @@
 
 
 | # | title | solutions |
-|---|---|---|---|
+|---|---|---|
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](solutions/h_median-of-two-sorted-arrays.md) |
 
 ##### temp
 
 | # | title | solutions |
-|---|---|---|---|
+|---|---|---|
 |  | []() | [Python](solutions/m_.md) |
 |  | []() | [Python](solutions/e_.md) |
 |  | []() | [Python](solutions/h_.md) |
