@@ -41,6 +41,7 @@
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python](solutions/m_letter_combination.md) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](solutions/m_remove-nth-node-from-end-of-list.md) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](solutions/m_generate-parentheses.md) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations) | [Python](solutions/m_permuations.md) |
 
 ## hard
 
