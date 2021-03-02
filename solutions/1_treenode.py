@@ -40,11 +40,42 @@ class Solution(object):
             if level>current_max: current_max=level
         
         return current_max
-p7=TreeNode(7)
-p15=TreeNode(15)
-p9=TreeNode(9)
-p20=TreeNode(20,p15,p7)
-p3=TreeNode(3,p9,p20)
-s=Solution()
-s.maxDepth(p3)
-s.maxDepth(p7)    
+p6 = TreeNode(6)
+p5 = TreeNode(5)
+p4 = TreeNode(4)
+p3 = TreeNode(3, p6, None)
+p2 = TreeNode(2, p4, p5)
+p1 = TreeNode(1, p2, p3)
+#s = Solution()
+#s.maxDepth(p3)
+#s.maxDepth(p7)  
+p10 = TreeNode(1)  
+p30 = TreeNode(3, p10, None)
+p20 = TreeNode(2, p30, None)
+
+# iterative
+root = p20
+list_unused_node, list_result_value = list(), list()
+while root:
+    if root in list_unused_node:
+        list_result_value = list_result_value + [root.val]
+        list_unused_node.pop()
+        if root.right:
+            root = root.right
+        elif list_unused_node:
+            root = list_unused_node[-1]
+        else:
+            root = None
+    elif root.left:
+        list_unused_node = list_unused_node + [root]
+        root = root.left
+    elif root.right:
+        list_result_value = list_result_value + [root.val]
+        root = root.right
+    elif root.left is None and root.right is None:
+        list_result_value = list_result_value + [root.val]
+        root = list_unused_node[-1]
+
+print('hi')
+
+

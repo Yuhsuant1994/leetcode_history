@@ -19,6 +19,7 @@
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Python](solutions/e_plus_one.md) |
 | 69 | [sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](solutions/e_squrtx.md) |
 | 70 | [climbing stairs](https://leetcode.com/problems/climbing-stairs) | [Python](solutions/e_climbstair.md) |
+| 101 | [symmetric tree](https://leetcode.com/problems/symmetric-tree) | [Python](solutions/e_symmetric_tree.py) |
 | 104 | [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [Python](solutions/e_maximum-depth-of-binary-tree.md) |
 | 136 | [Single number](https://leetcode.com/problems/single-number/) | [Python](solutions/e_single_number.md) |
 | 206 | [reverse linked list](https://leetcode.com/problems/reverse-linked-list) | [Python](solutions/easy_move_zeros.md) |
@@ -42,6 +43,7 @@
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python](solutions/m_remove-nth-node-from-end-of-list.md) |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](solutions/m_generate-parentheses.md) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | [Python](solutions/m_permuations.md) |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Python](solutions/m_binary_tree_inorder_traversal.py) |
 
 ## hard
 
