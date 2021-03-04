@@ -39,21 +39,47 @@ class Solution(object):
             if level>current_max: current_max=level
         
         return current_max
-p3=ListNode(3)
-p2=ListNode(2,p3)
-p1=ListNode(1,p2) #head
+p5=ListNode(5)
+p4=ListNode(4,p5)
+p21=ListNode(2,p4)
+p22=ListNode(2,p4)
+headB=ListNode(1,p21)
+headA=ListNode(1,p22)
+#head
 
-
-head = p1
-list_node = list() 
-list_v = list()
-while head.next is not None:
-    list_node.append(head)
-    list_v.append(head.val)
-    head = head.next
-    
-current_node = head
-while list_node:
-    current_node.next = list_node.pop()
-    current_node = current_node.next
-cu
+# Second thought: store value
+if not headA or not headB:
+    print( None)
+# Second thought: store value
+listA, listB, inter = list(), list(), list()
+pointA, pointB = headA, headB
+i = 1
+while pointA:
+    listA = listA + [pointA.val]
+    pointA = pointA.next
+while pointB:
+    listB = listB + [pointB.val]
+    pointB = pointB.next
+while i < min(len(listA), len(listB)):
+    if listA[-i:] == listB[-i:]:
+        i = i + 1
+    else:
+        i = i - 1
+        break
+if i == 0: 
+    print(  None)
+skipA = len(listA) - i
+skipB = len(listB) - i
+pointA, pointB = headA, headB
+for s in range(skipA):
+    pointA = pointA.next
+for s in range(skipB):
+    pointB = pointB.next
+            
+while pointA and pointB:
+    if pointA == pointB:
+        print(  pointA)
+    else:
+        pointA = pointA.next
+        pointB = pointB.next
+print(  None)
