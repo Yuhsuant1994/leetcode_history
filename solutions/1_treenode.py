@@ -41,17 +41,37 @@ class Solution(object):
         
         return current_max
 p6 = TreeNode(6)
-p5 = TreeNode(5)
-p4 = TreeNode(4)
-p3 = TreeNode(3, p6, None)
-p2 = TreeNode(2, p4, p5)
-p1 = TreeNode(1, p2, p3)
+p5 = TreeNode(7)
+p4 = TreeNode(15)
+p3 = TreeNode(20)#, p6, None)
+p2 = TreeNode(9, p4, p5)
+p1 = TreeNode(3, p2, p3)
 #s = Solution()
 #s.maxDepth(p3)
 #s.maxDepth(p7)  
 p10 = TreeNode(1)  
 p30 = TreeNode(3, p10, None)
 p20 = TreeNode(2, p30, None)
+
+treeDict = dict()
+def createTreeDict(treeDict, i, node):
+    if node:
+        if i in treeDict:
+            treeDict[i] = treeDict[i] + [node.val]
+        else:
+            treeDict[i] = [node.val]
+        return createTreeDict(treeDict, i+1, node.left), createTreeDict(treeDict, i+1, node.right)
+    else:
+       return
+
+createTreeDict(treeDict, 0, p1)
+result = list()
+for level in range(len(treeDict)):
+    result = result + [sum(treeDict[level]) / len(treeDict[level])]
+    print(result)
+
+
+
 
 # iterative
 root = p20

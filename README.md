@@ -55,14 +55,13 @@
 ## daily challenge 202103
 
 
-| title | solutions |
-|---|---|
-| distribute_candies | [Python](solutions/distribute_candies.py) |
-| missing_number | [Python](solutions/missing_number.py) |
-| set_mismatch | [Python](solutions/set_mismatch.py) |
-| intersection_two_link_list | [Python](solutions/intersection_two_link_list.py) |
-
-
+| # || title | solutions |
+|---|---|---|
+|575| [distribute_candies](https://leetcode.com/problems/distribute-candies/) | [Python](solutions/distribute_candies.py) |
+|268| [missing_number](https://leetcode.com/problems/missing-number) | [Python](solutions/missing_number.py) |
+|645| [set_mismatch](https://leetcode.com/problems/set-mismatch) | [Python](solutions/set_mismatch.py) |
+|160| [intersection_two_link_list](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](solutions/intersection_two_link_list.py) |
+|637| [average_levels_in_binary_tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Python](solutions/average_levels_in_binary_tree.py) |
 
 ##### temp
 
