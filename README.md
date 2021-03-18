@@ -1,5 +1,6 @@
 # LeetCode algorithm solutions
 
+
 ----------------
 ## easy
 
